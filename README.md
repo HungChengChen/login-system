@@ -1,6 +1,6 @@
 # login-system-node-mysql
 
-一個基於 Node.js 和 MySQL 的用戶登入系統。
+這是一個基於 Node.js 和 MySQL 的用戶登入系統，主要提供給開發者一個學習和實驗的環境。通過這個項目，你可以了解到關於用戶身份驗證的基本概念、如何在 Node.js 中操作 MySQL 數據庫，以及如何使用 Node.js 的 Express 框架來建立一個基本的 Web 應用程式。
 
 ## 現有功能
 
