@@ -1,0 +1,18 @@
+{
+    "name": "login",
+    "version": "1.0.0",
+    "description": "A simple Node.js login system using Express and MySQL.",
+    "main": "login.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "hungcheng.chen",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "express-session": "^1.17.3",
+      "mysql": "^2.18.1",
+      "mysql2": "^3.6.1"
+    }
+  }
+  
